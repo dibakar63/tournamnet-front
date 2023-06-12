@@ -1,0 +1,25 @@
+ul{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.tournament{
+   border: 1px solid black;
+   margin-left:20px ;
+   text-align: center;
+   padding: 10px;
+   color: rgb(12, 17, 10);
+   border-radius:10% ;
+   background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c); 
+   box-shadow: 5px 21px 5px 0px rgba(0,0,0,0.75);
+   -webkit-box-shadow: 5px 21px 5px 0px rgba(0,0,0,0.75);
+   -moz-box-shadow: 5px 21px 5px 0px rgba(0,0,0,0.75);
+}
+Button:hover{
+ 
+ color: rgb(9, 8, 8);
+}
+img{
+    height: 200px;
+    width: 200px;
+}
